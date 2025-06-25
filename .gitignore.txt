@@ -1,0 +1,5 @@
+AppData/
+*.parc
+*.cache
+*.log
+*.tmp
